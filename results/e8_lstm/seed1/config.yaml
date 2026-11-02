@@ -1,0 +1,17 @@
+name: e8_lstm
+data:
+  min_freq: 2
+  max_len: 50
+model:
+  type: lstm
+  emb_dim: 64
+  hidden: 32
+  dropout: 0.3
+  lstm_hidden: 64
+train:
+  lr: 0.001
+  batch_size: 64
+  max_epochs: 30
+  patience: 5
+  class_weight: false
+  train_fraction: 1.0

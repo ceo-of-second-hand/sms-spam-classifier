@@ -1,0 +1,5 @@
+name: baseline_word
+kind: baseline
+features: word
+C: 1.0
+train_fraction: 1.0

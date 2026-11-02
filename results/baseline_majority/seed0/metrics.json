@@ -1,0 +1,21 @@
+{
+  "name": "baseline_majority",
+  "seed": 0,
+  "train_size": 3611,
+  "val": {
+    "threshold": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "f05": 0.0,
+    "accuracy": 0.8746770025839793,
+    "pr_auc": 0.12532299741602068,
+    "roc_auc": 0.5,
+    "recall_at_fpr": 0.0,
+    "fpr": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 97,
+    "tn": 677
+  }
+}

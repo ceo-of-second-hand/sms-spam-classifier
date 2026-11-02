@@ -1,0 +1,5 @@
+name: e7_logreg_frac025
+kind: baseline
+features: word
+C: 1.0
+train_fraction: 0.25

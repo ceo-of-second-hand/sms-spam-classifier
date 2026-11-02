@@ -1,0 +1,5 @@
+name: baseline_char
+kind: baseline
+features: char
+C: 1.0
+train_fraction: 1.0
