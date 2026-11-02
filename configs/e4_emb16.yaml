@@ -1,0 +1,4 @@
+inherit: base
+name: e4_emb16
+model:
+  emb_dim: 16

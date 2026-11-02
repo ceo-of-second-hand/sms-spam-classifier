@@ -1,0 +1,4 @@
+inherit: base
+name: e6_classweight
+train:
+  class_weight: true

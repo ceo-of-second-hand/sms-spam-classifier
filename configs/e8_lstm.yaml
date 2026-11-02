@@ -1,0 +1,6 @@
+# E8: LSTM замість усереднення, решта як у фінальному
+inherit: final
+name: e8_lstm
+model:
+  type: lstm
+  lstm_hidden: 64

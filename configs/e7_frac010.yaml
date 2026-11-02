@@ -1,0 +1,4 @@
+inherit: final
+name: e7_frac010
+train:
+  train_fraction: 0.10

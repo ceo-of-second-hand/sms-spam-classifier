@@ -1,0 +1,4 @@
+inherit: base
+name: e4_emb128
+model:
+  emb_dim: 128

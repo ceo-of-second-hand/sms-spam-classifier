@@ -1,0 +1,4 @@
+inherit: base
+name: e3_lr_1e-4
+train:
+  lr: 0.0001

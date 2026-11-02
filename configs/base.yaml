@@ -1,0 +1,17 @@
+# базова конфігурація нейромережі, від неї рахуються всі експерименти
+name: base
+data:
+  min_freq: 2
+  max_len: 50     # ~99-й перцентиль довжини повідомлень у train
+model:
+  type: meanpool
+  emb_dim: 64
+  hidden: 32
+  dropout: 0.3
+train:
+  lr: 0.001
+  batch_size: 64
+  max_epochs: 30
+  patience: 5
+  class_weight: false
+  train_fraction: 1.0
