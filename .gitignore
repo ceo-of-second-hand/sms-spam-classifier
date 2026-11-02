@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+documentation/
+
+results/**/model.pt
+results/**/model.pkl
+results/**/vocab.json
+results/**/val_probs.npy
+
+~$*
+.vscode/
+.idea/
