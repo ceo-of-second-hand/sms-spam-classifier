@@ -1,0 +1,17 @@
+{
+  "raw_total": 5574,
+  "raw_spam": 747,
+  "label_conflicts": 0,
+  "duplicates_removed": 415,
+  "dedup_total": 5159,
+  "dedup_spam": 642,
+  "near_duplicates": 22,
+  "val_near_dup_in_train": 5,
+  "test_near_dup_in_train": 6,
+  "train_total": 3611,
+  "train_spam": 449,
+  "val_total": 774,
+  "val_spam": 97,
+  "test_total": 774,
+  "test_spam": 96
+}
