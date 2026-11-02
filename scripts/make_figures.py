@@ -1,4 +1,4 @@
-﻿"""Графіки для звіту -> results/figures/"""
+"""Графіки для звіту -> results/figures/"""
 import pickle
 
 import matplotlib
