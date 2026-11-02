@@ -1,0 +1,33 @@
+model,y,text,p_spam,pred,error
+nn_meanpool,1,"Bears Pic Nick, and Tom, Pete and ... Dick. In fact, all types try gay chat with photo upload call 08718730666 (10p/min). 2 stop texts call 08712460324",0.7537137866020203,0,FN
+nn_meanpool,1,TheMob>Yo yo yo-Here comes a new selection of hot downloads for our members to get for FREE! Just click & open the next link sent to ur fone...,0.704169750213623,0,FN
+nn_meanpool,1,"LookAtMe!: Thanks for your purchase of a video clip from LookAtMe!, you've been charged 35p. Think you can do better? Why not send a video in a MMSto 32323.",0.6771877408027649,0,FN
+nn_meanpool,1,"FreeMsg Hey U, i just got 1 of these video/pic fones, reply WILD to this txt & ill send U my pics, hurry up Im so bored at work xxx (18 150p/rcvd STOP2stop)",0.6748340129852295,0,FN
+nn_meanpool,1,I am hot n horny and willing I live local to you - text a reply to hear strt back from me 150p per msg Netcollex LtdHelpDesk: 02085076972 reply Stop to end,0.6552133560180664,0,FN
+nn_meanpool,1,CLAIRE here am havin borin time & am now alone U wanna cum over 2nite? Chat now 09099725823 hope 2 C U Luv CLAIRE xx Calls£1/minmoremobsEMSPOBox45PO139WA,0.6464986205101013,0,FN
+nn_meanpool,1,"I want some cock! My hubby's away, I need a real man 2 satisfy me. Txt WIFE to 89938 for no strings action. (Txt STOP 2 end, txt rec £1.50ea. OTBox 731 LA1 7WS. )",0.5661941170692444,0,FN
+nn_meanpool,1,"cmon babe, make me horny, *turn* me on! Txt me your fantasy now babe -) Im hot, sticky and need you now. All replies cost £1.50. 2 cancel send STOP",0.4963745176792145,0,FN
+nn_meanpool,1,Someone U know has asked our dating service 2 contact you! Cant Guess who? CALL 09058091854 NOW all will be revealed. PO BOX385 M6 6WU,0.43406516313552856,0,FN
+nn_meanpool,1,Block Breaker now comes in deluxe format with new features and great graphics from T-Mobile. Buy for just £5 by replying GET BBDELUXE and take the challenge,0.3689236342906952,0,FN
+nn_meanpool,1,ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O £250 3 WANT £800,0.23648704588413239,0,FN
+nn_meanpool,1,"Hi babe its Jordan, how r u? Im home from abroad and lonely, text me back if u wanna chat xxSP visionsms.com Text stop to stopCost 150p 08712400603",0.17806726694107056,0,FN
+nn_meanpool,1,Can U get 2 phone NOW? I wanna chat 2 set up meet Call me NOW on 09096102316 U can cum here 2moro Luv JANE xx Calls£1/minmoremobsEMSPOBox45PO139WA,0.12478598207235336,0,FN
+nn_meanpool,1,"Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!",0.10972605645656586,0,FN
+nn_meanpool,1,Hi I'm sue. I am 20 years old and work as a lapdancer. I love sex. Text me live - I'm i my bedroom now. text SUE to 89555. By TextOperator G2 1DA 150ppmsg 18+,0.007410898804664612,0,FN
+nn_meanpool,1,Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. I'm waiting for your opinions. I want to be your friend 1/1,0.0036919093690812588,0,FN
+nn_meanpool,1,Sorry I missed your call let's talk when you have the time. I'm on 07090201529,0.002416218863800168,0,FN
+nn_meanpool,0,See the forwarding message for proof,0.9760631918907166,1,FP
+nn_meanpool,0,Hey company elama po mudyadhu.,0.947131872177124,1,FP
+nn_meanpool,0,Total video converter free download type this in google search:),0.9462887048721313,1,FP
+nn_meanpool,0,Does daddy have a bb now.,0.8890532851219177,1,FP
+nn_meanpool,0,Unlimited texts. Limited minutes.,0.8169690370559692,1,FP
+tfidf_logreg,1,FreeMsg>FAV XMAS TONES!Reply REAL,0.360742178376732,0,FN
+tfidf_logreg,1,Can U get 2 phone NOW? I wanna chat 2 set up meet Call me NOW on 09096102316 U can cum here 2moro Luv JANE xx Calls£1/minmoremobsEMSPOBox45PO139WA,0.3427812744929929,0,FN
+tfidf_logreg,1,ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O £250 3 WANT £800,0.3378332980769257,0,FN
+tfidf_logreg,1,TheMob>Yo yo yo-Here comes a new selection of hot downloads for our members to get for FREE! Just click & open the next link sent to ur fone...,0.3163054865174361,0,FN
+tfidf_logreg,1,Adult 18 Content Your video will be with you shortly,0.30981607259822946,0,FN
+tfidf_logreg,1,18 days to Euro2004 kickoff! U will be kept informed of all the latest news and results daily. Unsubscribe send GET EURO STOP to 83222.,0.27817474230710226,0,FN
+tfidf_logreg,1,"Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!",0.2177119093456286,0,FN
+tfidf_logreg,1,Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. I'm waiting for your opinions. I want to be your friend 1/1,0.19654785899661686,0,FN
+tfidf_logreg,1,Hi I'm sue. I am 20 years old and work as a lapdancer. I love sex. Text me live - I'm i my bedroom now. text SUE to 89555. By TextOperator G2 1DA 150ppmsg 18+,0.1810203770066937,0,FN
+tfidf_logreg,1,Sorry I missed your call let's talk when you have the time. I'm on 07090201529,0.05922926264006874,0,FN
